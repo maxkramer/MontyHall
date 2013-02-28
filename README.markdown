@@ -10,7 +10,7 @@ This project is a demo (iOS) of the gameshow, along with the paradox, coded in o
 
 ##License
 
-The code is licensed under the Creative Commons Attribution 2.0 UK: England & Wales License, which requires attribution when used.
+The code is licensed under the [Creative Commons Attribution 2.0 UK: England & Wales License][2], which requires attribution when used.
 
 Copyright &copy; 2013 Max Kramer
 
